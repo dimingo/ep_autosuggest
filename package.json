@@ -1,9 +1,17 @@
 {
-	"name": "ep_PLUGINNAME",
-	"version": "0.0.1",
-	"description": "DESCRIPTION",
-	"author": "USERNAME (REAL NAME) <MAIL@EXAMPLE.COM>",
-	"contributors": [],
-	"dependencies": {"MODULE": "0.3.20"},
-	"engines": { "node": ">= 0.6.0"}
+  "name": "ep_autosuggest",
+  "version": "0.0.1",
+  "description": "Autosuggest Feature",
+  "author": "dimingo (Mitchel Ketcha) <mitchelketcha@gmail.com>",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ether/ep_autosuggest.git"
+  },
+  "dependencies": {
+    "MODULE": "0.3.20"
+  },
+  "engines": {
+    "node": ">= 10.13.0"
+  }
 }

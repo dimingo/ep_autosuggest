@@ -2,9 +2,7 @@
     "parts": [
         {
             "name": "autosuggest",
-            "hooks": {
-                "HOOKNAME" : "ep_autosuggest/index:FUNCTIONNAME1"
-            },
+          "hooks": ["clientVars"],
             "client_hooks": {
                 "CLIENT_HOOKNAME" : "ep_autosuggest/static/js/index:FUNCTIONNAME1"
             }

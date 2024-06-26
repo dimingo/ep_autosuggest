@@ -9,7 +9,6 @@
     "url": "git://github.com/ether/ep_autosuggest.git"
   },
   "dependencies": {
-    "MODULE": "0.3.20"
   },
   "engines": {
     "node": ">= 10.13.0"
